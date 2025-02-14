@@ -1,0 +1,9 @@
+textblob
+pandas
+sentence-transformers
+scikit-learn
+instaloader
+facebook-scraper
+linkedin-api
+tiktok-api
+streamlit
