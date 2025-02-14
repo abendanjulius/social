@@ -12,6 +12,8 @@ import linkedin_api  # LinkedIn API
 import TikTokApi  # TikTok Scraper
 import streamlit as st  # Dashboard
 import logging
+import TextBlob
+
 
 # Setup Logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
